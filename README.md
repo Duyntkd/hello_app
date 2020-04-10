@@ -1,24 +1,9 @@
-# README
+$ git status
+On branch modify-README
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+        modified:   README.md
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+no changes added to commit (use "git add" and/or "git commit -a")
